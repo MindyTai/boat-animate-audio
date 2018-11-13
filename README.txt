@@ -1,4 +1,4 @@
-- CodePen: https://codepen.io/MindyTai/pen/dZMzRR
+CodePen: https://codepen.io/MindyTai/pen/dZMzRR
 
 
  
